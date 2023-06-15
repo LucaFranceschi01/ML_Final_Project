@@ -9,7 +9,7 @@ executing==1.2.0
 fonttools==4.39.4
 graphviz==0.20.1
 ipykernel==6.23.1
-ipython==8.13.2
+ipython==8.14.0
 jedi==0.18.2
 joblib==1.2.0
 jupyter_client==8.2.0
